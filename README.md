@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniela Villarino</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A Software Engineer student at Universidad Autónoma de Yucatán</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danivillarino&label=Profile%20views&color=0e75b6&style=flat" alt="danivillarino" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Java, Python**
+- 🌱 I’m currently learning **JavaScript, C++**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://daniela-villarino.netlify.app)
+- 📫 How to reach me: **villarinobudip@gmail.com**
 
-- 📫 How to reach me **villarinobudip@gmail.com**
-
-- 📄 Know about my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1YeCxK1tOcz_QUWadz8LmOu2zGk4S0vqS/view?usp=drive_link)
+- 📄 Know about my experiences: [Dani's resume!](https://drive.google.com/file/d/1P5h6Jtni-2NGjNaUJvAT2YRgN47YjOw4/view?usp=sharing)
 
 - ⚡ Fun fact **If I weren't majoring in Software Engineering, I would be majoring in 3D Animation and Visual Effects.**
 
