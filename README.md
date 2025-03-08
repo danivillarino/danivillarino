@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniela Villarino</h1>
-<h3 align="center">A Software Engineer student at Universidad Autónoma de Yucatán</h3>
+<h3 align="center">A Software Engineering student at Universidad Autónoma de Yucatán</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danivillarino&label=Profile%20views&color=0e75b6&style=flat" alt="danivillarino" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, C++**
+- 🌱 I’m currently learning **Racket, C++**
 
 - 📫 How to reach me: **villarinobudip@gmail.com**
 
