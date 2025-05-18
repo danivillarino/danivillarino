@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danivillarino&label=Profile%20views&color=0e75b6&style=flat" alt="danivillarino" /> </p>
 
-- 🌱 I’m currently learning **Racket, C++**
+- 🌱 I’m currently learning **Lua**
 
 - 📫 How to reach me: **villarinobudip@gmail.com**
-
-- 📄 Know about my experiences: [Dani's resume!](https://drive.google.com/file/d/1P5h6Jtni-2NGjNaUJvAT2YRgN47YjOw4/view?usp=sharing)
 
 - ⚡ Fun fact **If I weren't majoring in Software Engineering, I would be majoring in 3D Animation and Visual Effects.**
 
