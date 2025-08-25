@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danivillarino&label=Profile%20views&color=0e75b6&style=flat" alt="danivillarino" /> </p>
 
-- 🌱 I’m currently learning **Lua**
-
-- 📫 How to reach me: **villarinobudip@gmail.com**
-
-- ⚡ Fun fact **If I weren't majoring in Software Engineering, I would be majoring in 3D Animation and Visual Effects.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniela-villarino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniela-villarino" height="30" width="40" /></a>   <a href="https://instagram.com/nii_daanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nii_daanii" height="30" width="40" /></a>
